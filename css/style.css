@@ -12,6 +12,7 @@ body {
 
 .logo {
     margin-top: 1rem;
+    max-height: 300px;
 }
 
 .links {
