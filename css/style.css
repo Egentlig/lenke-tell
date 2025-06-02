@@ -10,6 +10,10 @@ body {
     background-color: black;
 }
 
+.logo {
+    margin-top: 1rem;
+}
+
 .links {
     display: flex;
     flex-direction: column;
